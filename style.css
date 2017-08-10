@@ -1,0 +1,36 @@
+body {
+	background-color: #1f2123;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+	border: 8px solid #646668;
+}
+
+h2, h4 {
+	color: white;
+}
+
+h3 {
+	color: #646668;
+}
+
+p {
+	color: #9c9fa3;
+}
+
+#center {
+	margin: 0 auto;
+	width: 800px;
+}
+
+#left {
+	float: left;
+	width: 800px;
+}
+
+#right {
+	float: right;
+	width: 800px;
+}
